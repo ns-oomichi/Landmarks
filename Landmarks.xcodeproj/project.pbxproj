@@ -32,6 +32,7 @@
 		D7E0749A2547A048002CBE43 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E074982547A048002CBE43 /* Data.swift */; };
 		D7E0749B2547A048002CBE43 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E074992547A048002CBE43 /* Landmark.swift */; };
 		D7FD8A6425634FFE00A3BF7E /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FD8A6325634FFE00A3BF7E /* Badge.swift */; };
+		D7FD8A672563507300A3BF7E /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FD8A662563507300A3BF7E /* HexagonParameters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		D7E074982547A048002CBE43 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		D7E074992547A048002CBE43 /* Landmark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		D7FD8A6325634FFE00A3BF7E /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		D7FD8A662563507300A3BF7E /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D7DCC52B2547A36D00E80B5C /* LandmarkRow.swift */,
 				D7DCC52E2547A81900E80B5C /* LandmarkList.swift */,
 				D7FD8A6325634FFE00A3BF7E /* Badge.swift */,
+				D7FD8A662563507300A3BF7E /* HexagonParameters.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				D7FD8A6425634FFE00A3BF7E /* Badge.swift in Sources */,
 				D7E0749A2547A048002CBE43 /* Data.swift in Sources */,
 				D7D82F1A253E74B2001A4A43 /* MapView.swift in Sources */,
+				D7FD8A672563507300A3BF7E /* HexagonParameters.swift in Sources */,
 				D7BA1BDC255A1C8F004E280C /* UserData.swift in Sources */,
 				D7DCC52F2547A81900E80B5C /* LandmarkList.swift in Sources */,
 				D7723E5A253E66C8005EA4AA /* LandmarksApp.swift in Sources */,
